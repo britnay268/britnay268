@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Hey%20Everyone,%20I'm%20Brit!&section=header&animation=twinkling&fontColor=c0c0c0">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Hey%20Everyone,%20I'm%20Brit!&section=header&animation=twinkling&fontColor=ffffff">
 </p>
 
 <h3 align="center">I'm an up and coming Full-stack developer from Antigua, W.I.</h3>
