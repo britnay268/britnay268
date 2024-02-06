@@ -6,9 +6,9 @@
 
 <h3> I'm currently attending Nashville Software School doing the Full Stack Web Development Bootcamp</h3>
 
-<p><img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=britnay268&label=Profile%20views&color=0e75b6&style=flat" alt="britnay268" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=britnay268&label=Profile%20views&color=0e75b6&style=flat" alt="britnay268" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
