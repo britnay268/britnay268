@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Hey%20Everyone,%20I'm%20Brit!&section=header&animation=twinkling&fontColor=c0c0c0">
 </p>
 
-<h3 align="center">I'm an up and comind full-stack developer from Antigua,W.I.</h3>
+<h3 align="center">I'm an up and coming Full-stack developer from Antigua, W.I.</h3>
 
 <h3> I'm currently attending Nashville Software School doing the Full Stack Web Development Bootcamp</h3>
 
