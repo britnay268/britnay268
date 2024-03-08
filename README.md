@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/britnay-gore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/britnay-gore/" height="30" width="40" /></a>
 </p>
 
-- 🚧 I'm currently working on [Harry Potter Sorting Hat](https://github.com/britnay268/INDIVIDUAL-PROJECT-sorting-hat.git)
+- 🚧 I'm currently working on [vocab-YOU-lary](https://github.com/britnay268/INDIVIDUAL-ASSESSMENT-vocab-YOU-lary.git)
 
 - 💡 I’m currently learning **HTML, CSS, Bootstrap, and Vanilla JS.**
 
